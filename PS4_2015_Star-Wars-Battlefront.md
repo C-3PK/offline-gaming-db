@@ -13,7 +13,7 @@ __Offline Play:__ Yes
 __Download required:__ No
 ___
 ### Installation
-The game can be launched nearly immediately after inserting the disc. Once the game loads, player is only able to play one gamemode as Darth Vader on Hoth. During that time, the rest of the game is being installed to the disc. At first it can be a bit misleading since there is no information about the progress of the installation (no percentage or progression bar visible). After a while, the game will eventually install and the player will be prompted to press the option button to start the full version of the game. The installation can take a long time, depending on the PS4 model and the storage installed in it (around 30 min on my system)
+The game can be launched nearly immediately after inserting the disc. Once the game loads, player is only able to play one gamemode as Darth Vader on Hoth. During that time, the rest of the game is being installed to the hard drive. At first it can be a bit misleading since there is no information about the progress of the installation (no percentage or progression bar visible). After a while, the game will eventually install and the player will be prompted to press the option button to start the full version of the game. The installation can take a long time, depending on the PS4 model and the storage installed in it (around 30 min on my system)
 ___
 ### Gaming Experience/Functionality
 The game is fully playable with three offline modes (TRAINING/BATTLES/SURVIVAL) available. The single-player/coop/versus modes all work as expected. No major game breaking bugs discovered.
