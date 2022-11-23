@@ -19,4 +19,4 @@ ___
 The game is fully playable with three offline modes (TRAINING/BATTLES/SURVIVAL) available. The single-player/coop/versus modes all work as expected. No major game breaking bugs discovered.
 ___
 ### Summary
-The game works fine completely offline and can be a lot of fun especially when playing with others, however players do miss out on a few more maps and modes added later in updates, as well as all the multiplayer modes, which this game primarly focuses on.
+The game works fine completely offline and can be a lot of fun especially when playing in coop/versus mode, however players do miss out on a few more maps and modes added later in updates, as well as all the multiplayer modes, which this game primarly focuses on.
